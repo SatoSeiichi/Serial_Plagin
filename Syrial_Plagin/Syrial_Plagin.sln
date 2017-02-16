@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7E82F719-B82C-6F4E-1F1D-97182EB26776}") = "Syrial_Plagin", "Assembly-CSharp.csproj", "{815BE3D9-C6A2-4D9D-84DD-ED6BD37C736D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815BE3D9-C6A2-4D9D-84DD-ED6BD37C736D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815BE3D9-C6A2-4D9D-84DD-ED6BD37C736D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815BE3D9-C6A2-4D9D-84DD-ED6BD37C736D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815BE3D9-C6A2-4D9D-84DD-ED6BD37C736D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

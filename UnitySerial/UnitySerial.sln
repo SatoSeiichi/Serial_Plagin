@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitySerial", "UnitySerial\UnitySerial.csproj", "{CA053E3F-21C7-43B1-9D9A-22C2AFD80B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA053E3F-21C7-43B1-9D9A-22C2AFD80B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA053E3F-21C7-43B1-9D9A-22C2AFD80B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA053E3F-21C7-43B1-9D9A-22C2AFD80B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA053E3F-21C7-43B1-9D9A-22C2AFD80B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

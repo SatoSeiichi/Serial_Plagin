@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="UnitySerial\UnitySerial.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitySerial\MyClass.cs">
+    <Files>
+      <File FileName="UnitySerial\MyClass.cs" Line="58" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
